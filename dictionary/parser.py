@@ -7,8 +7,10 @@ with open('./dictionary.json') as json_dict:
     data = json.load(json_dict)
     for key in data.keys():
         item_array = data[key].split("ИСТОЧНИК:")
+        english_translation = item_array[0][item_array[0].find(
+            '(') + 1:item_array[0].find(')')].split(',')
         new_item = {
-            "english": item_array[0][item_array[0].find('(') + 1:item_array[0].find(')')],
+            "english": item_array[0][item_array[0].find('(') + 1:item_array[0].find(')')].split(','),
             "meaning": item_array[0][item_array[0].find(')') + 2:].strip(),
             "resource": item_array[1].strip(),
             "related": []

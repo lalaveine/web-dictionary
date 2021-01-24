@@ -67,7 +67,7 @@ var loadDictionary = (file, callback) => {
 };
 
 downloadDictionary(
-  "https://raw.githubusercontent.com/lalaveine/web-dictionary/master/test.dict.json",
+  "https://raw.githubusercontent.com/lalaveine/web-dictionary/master/dictionary-fortmated.json",
   "dictionary.json",
   (err) => {
     if (err) {
