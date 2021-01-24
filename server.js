@@ -6,12 +6,23 @@ var querystring = require("querystring");
 var dictionary = null;
 
 var buildHtml = (dict_entry) => {
-  var header = "test";
-  var body = "Значение: " + dict_entry["meaning"];
-
-  // concatenate header string
-  // concatenate body string
-
+  var header = dict_entry["word"];
+  var body = "<p>Слово: " + dict_entry["word"] + "</p>";
+  body += "<p>Значение: " + dict_entry["meaning"] + "</p>";
+  tranlation_string =
+    dict_entry["english"].length > 1
+      ? dict_entry["english"].join(", ")
+      : dict_entry["english"];
+  body += "<p>Перевод: " + tranlation_string + "</p>";
+  related_words = [];
+  for (const item in dict_entry["related"]) {
+    related_words.push(
+      `<a href="/${dict_entry["related"][item].replace(" ", "_")}">${
+        dict_entry["related"][item]
+      }</a>`
+    );
+  }
+  body += "<p>Связи: " + related_words.join(", ") + "</p>";
   return (
     "<!DOCTYPE html>\n" +
     "<html>\n<head><title>" +
