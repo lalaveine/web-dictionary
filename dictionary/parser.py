@@ -17,7 +17,7 @@ with open('./dictionary.json') as json_dict:
             "related": []
         }
 
-        data_formated[key] = new_item
+        data_formated[key.replace(" ", "_")] = new_item
 
 for item in data_formated:
     related = []

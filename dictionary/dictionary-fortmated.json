@@ -8,7 +8,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "АДАПТИВНЫЙ ДИЗАЙН": {
+  "АДАПТИВНЫЙ_ДИЗАЙН": {
     "english": [
       "adaptive design"
     ],
@@ -16,7 +16,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ПОЧТИ СТАНДАРТНЫЙ РЕЖИМ": {
+  "ПОЧТИ_СТАНДАРТНЫЙ_РЕЖИМ": {
     "english": [
       "almost standards mode"
     ],
@@ -68,7 +68,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "КЛЮЧ ДИРЕКТИВЫ": {
+  "КЛЮЧ_ДИРЕКТИВЫ": {
     "english": [
       "at-keyword"
     ],
@@ -108,7 +108,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "БАЗОВАЯ ЛИНИЯ": {
+  "БАЗОВАЯ_ЛИНИЯ": {
     "english": [
       "baseline"
     ],
@@ -116,7 +116,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "УДЕЛЯТЬ ЧРЕЗМЕРНОЕ ВНИМАНИЕ МЕЛОЧАМ": {
+  "УДЕЛЯТЬ_ЧРЕЗМЕРНОЕ_ВНИМАНИЕ_МЕЛОЧАМ": {
     "english": [
       "bikeshed"
     ],
@@ -124,7 +124,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "РЕЖИМ НАЛОЖЕНИЯ": {
+  "РЕЖИМ_НАЛОЖЕНИЯ": {
     "english": [
       "blending mode"
     ],
@@ -132,27 +132,27 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "БЛОК ДЕКЛАРАЦИЙ": {
+  "БЛОК_ДЕКЛАРАЦИЙ": {
     "english": [
       "block"
     ],
     "meaning": "структурная часть объявления. Заключается в фигурные скобки и содержит декларации свойств (или, в случае медиавыражения, блоки стилей).",
     "resource": "github.com/web-standards-ru/dictionary",
     "related": [
-      "БЛОЧНЫЙ ВИД"
+      "БЛОЧНЫЙ_ВИД"
     ]
   },
-  "БЛОЧНЫЙ ВИД": {
+  "БЛОЧНЫЙ_ВИД": {
     "english": [
       "block"
     ],
     "meaning": "см. ВИД.",
     "resource": "github.com/web-standards-ru/dictionary",
     "related": [
-      "БЛОК ДЕКЛАРАЦИЙ"
+      "БЛОК_ДЕКЛАРАЦИЙ"
     ]
   },
-  "БЛОЧНАЯ ЦИТАТА": {
+  "БЛОЧНАЯ_ЦИТАТА": {
     "english": [
       "blockquote"
     ],
@@ -168,7 +168,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "СКРУГЛЕНИЕ РАМКИ": {
+  "СКРУГЛЕНИЕ_РАМКИ": {
     "english": [
       "border-radius"
     ],
@@ -176,7 +176,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ОКАЙМЛЯЮЩИЙ БЛОК": {
+  "ОКАЙМЛЯЮЩИЙ_БЛОК": {
     "english": [
       "bounding box"
     ],
@@ -184,7 +184,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "БЛОЧНАЯ МОДЕЛЬ": {
+  "БЛОЧНАЯ_МОДЕЛЬ": {
     "english": [
       "box model"
     ],
@@ -192,7 +192,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ТЕНЬ (БЛОКА)": {
+  "ТЕНЬ_(БЛОКА)": {
     "english": [
       "box-shadow"
     ],
@@ -200,7 +200,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ХЛЕБНЫЕ КРОШКИ": {
+  "ХЛЕБНЫЕ_КРОШКИ": {
     "english": [
       "breadcrumbs"
     ],
@@ -208,24 +208,24 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ТОЧКА ОСТАНОВА": {
+  "ТОЧКА_ОСТАНОВА": {
     "english": [
       "breakpoint"
     ],
     "meaning": "строка в коде, на которой выполнение скрипта приостанавливается для вызова отладчика.",
     "resource": "github.com/web-standards-ru/dictionary",
     "related": [
-      "КОНТРОЛЬНАЯ ТОЧКА"
+      "КОНТРОЛЬНАЯ_ТОЧКА"
     ]
   },
-  "КОНТРОЛЬНАЯ ТОЧКА": {
+  "КОНТРОЛЬНАЯ_ТОЧКА": {
     "english": [
       "breakpoint"
     ],
     "meaning": "условие, при котором раскладка сайта меняется с одной на другую. Характерно для медиавыражений.",
     "resource": "github.com/web-standards-ru/dictionary",
     "related": [
-      "ТОЧКА ОСТАНОВА"
+      "ТОЧКА_ОСТАНОВА"
     ]
   },
   "БРАУЗЕР": {
@@ -252,7 +252,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "КАНДИДАТ В РЕКОМЕНДАЦИИ": {
+  "КАНДИДАТ_В_РЕКОМЕНДАЦИИ": {
     "english": [
       "candidate recommendation (CR"
     ],
@@ -276,7 +276,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ОТСТУП В ЯЧЕЙКАХ ТАБЛИЦЫ": {
+  "ОТСТУП_В_ЯЧЕЙКАХ_ТАБЛИЦЫ": {
     "english": [
       "cellpadding"
     ],
@@ -284,7 +284,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "РАССТОЯНИЕ МЕЖДУ ЯЧЕЙКАМИ ТАБЛИЦЫ": {
+  "РАССТОЯНИЕ_МЕЖДУ_ЯЧЕЙКАМИ_ТАБЛИЦЫ": {
     "english": [
       "cellspacing"
     ],
@@ -292,7 +292,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "СИМВОЛЬНАЯ ПОДСТАНОВКА": {
+  "СИМВОЛЬНАЯ_ПОДСТАНОВКА": {
     "english": [
       "character reference"
     ],
@@ -337,7 +337,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ОТМЕНА ОБТЕКАНИЯ": {
+  "ОТМЕНА_ОБТЕКАНИЯ": {
     "english": [
       "clear"
     ],
@@ -369,7 +369,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "КОНТУР ОБРЕЗКИ": {
+  "КОНТУР_ОБРЕЗКИ": {
     "english": [
       "clipping path"
     ],
@@ -392,12 +392,12 @@
     "meaning": "неисчисл. (как сахар), напр. error in code — ошибка в коде, но не ошибка в кодах (неправильно).",
     "resource": "github.com/web-standards-ru/dictionary",
     "related": [
-      "ПИСАТЬ КОД",
+      "ПИСАТЬ_КОД",
       "ПРОГРАММИРОВАТЬ",
       "ВЕРСТАТЬ"
     ]
   },
-  "ПИСАТЬ КОД": {
+  "ПИСАТЬ_КОД": {
     "english": [
       "code"
     ],
@@ -417,7 +417,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": [
       "КОД",
-      "ПИСАТЬ КОД",
+      "ПИСАТЬ_КОД",
       "ВЕРСТАТЬ"
     ]
   },
@@ -429,11 +429,11 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": [
       "КОД",
-      "ПИСАТЬ КОД",
+      "ПИСАТЬ_КОД",
       "ПРОГРАММИРОВАТЬ"
     ]
   },
-  "ОБЪЕДИНЕНИЕ СТОЛБЦОВ": {
+  "ОБЪЕДИНЕНИЕ_СТОЛБЦОВ": {
     "english": [
       "colspan"
     ],
@@ -501,7 +501,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "КОМПОЗИТНЫЙ СЛОЙ": {
+  "КОМПОЗИТНЫЙ_СЛОЙ": {
     "english": [
       "composite layer"
     ],
@@ -525,7 +525,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "НЕПРЕРЫВНАЯ ИНТЕГРАЦИЯ": {
+  "НЕПРЕРЫВНАЯ_ИНТЕГРАЦИЯ": {
     "english": [
       "continuous integration"
     ],
@@ -549,7 +549,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "РАБОЧАЯ ГРУППА CSS": {
+  "РАБОЧАЯ_ГРУППА_CSS": {
     "english": [
       "CSS Working Group (CSSWG"
     ],
@@ -577,7 +577,7 @@
       "КАСТОМНЫЙ"
     ]
   },
-  "СВЯЗЫВАНИЕ ДАННЫХ": {
+  "СВЯЗЫВАНИЕ_ДАННЫХ": {
     "english": [
       "data binding"
     ],
@@ -593,7 +593,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ГЛУБОКОЕ СРАВНЕНИЕ": {
+  "ГЛУБОКОЕ_СРАВНЕНИЕ": {
     "english": [
       "deep comparison"
     ],
@@ -678,7 +678,7 @@
       "ДИЗАЙН"
     ]
   },
-  "ПРОВЕРКА НА ГРЯЗНЫЕ СВОЙСТВА ОБЪЕКТА": {
+  "ПРОВЕРКА_НА_ГРЯЗНЫЕ_СВОЙСТВА_ОБЪЕКТА": {
     "english": [
       "dirty checking"
     ],
@@ -730,7 +730,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ОБЪЕКТНАЯ МОДЕЛЬ ДОКУМЕНТА": {
+  "ОБЪЕКТНАЯ_МОДЕЛЬ_ДОКУМЕНТА": {
     "english": [
       "DOM"
     ],
@@ -747,7 +747,7 @@
     "meaning": "см. ОБЪЕКТНАЯ МОДЕЛЬ ДОКУМЕНТА.",
     "resource": "github.com/web-standards-ru/dictionary",
     "related": [
-      "ОБЪЕКТНАЯ МОДЕЛЬ ДОКУМЕНТА"
+      "ОБЪЕКТНАЯ_МОДЕЛЬ_ДОКУМЕНТА"
     ]
   },
   "ДОКТАЙП": {
@@ -758,7 +758,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ВЫПАДАЮЩЕЕ МЕНЮ": {
+  "ВЫПАДАЮЩЕЕ_МЕНЮ": {
     "english": [
       "dropdown"
     ],
@@ -773,10 +773,10 @@
     "meaning": "описывает изменение скорости анимации с помощью ключевых слов или кривых Безье, напр. transition easing is linear — плавность перехода линейная.",
     "resource": "github.com/web-standards-ru/dictionary",
     "related": [
-      "ФУНКЦИЯ ПЛАВНОСТИ"
+      "ФУНКЦИЯ_ПЛАВНОСТИ"
     ]
   },
-  "ФУНКЦИЯ ПЛАВНОСТИ": {
+  "ФУНКЦИЯ_ПЛАВНОСТИ": {
     "english": [
       "easing"
     ],
@@ -786,7 +786,7 @@
       "ПЛАВНОСТЬ"
     ]
   },
-  "РЕДАКТОРСКИЙ ЧЕРНОВИК": {
+  "РЕДАКТОРСКИЙ_ЧЕРНОВИК": {
     "english": [
       "editor’s draft (ED"
     ],
@@ -850,7 +850,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ДИРЕКТИВА @SUPPORTS": {
+  "ДИРЕКТИВА_@SUPPORTS": {
     "english": [
       "feature query"
     ],
@@ -858,7 +858,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ГРУППА ПОЛЕЙ": {
+  "ГРУППА_ПОЛЕЙ": {
     "english": [
       "fieldset"
     ],
@@ -874,7 +874,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ЗАГОЛОВОК ФИГУРЫ": {
+  "ЗАГОЛОВОК_ФИГУРЫ": {
     "english": [
       "figcaption"
     ],
@@ -890,7 +890,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "МЕЛЬКАНИЕ ТЕКСТА БЕЗ СТИЛЕЙ": {
+  "МЕЛЬКАНИЕ_ТЕКСТА_БЕЗ_СТИЛЕЙ": {
     "english": [
       "flash of unstyled text (FOUT"
     ],
@@ -898,7 +898,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "МЕЛЬКАНИЕ НЕВИДИМОГО ТЕКСТА": {
+  "МЕЛЬКАНИЕ_НЕВИДИМОГО_ТЕКСТА": {
     "english": [
       "flash of invisible text (FOIT"
     ],
@@ -906,7 +906,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "МЕЛЬКАНИЕ СИНТЕЗИРОВАННОГО ТЕКСТА": {
+  "МЕЛЬКАНИЕ_СИНТЕЗИРОВАННОГО_ТЕКСТА": {
     "english": [
       "flash of faux text (FOFT"
     ],
@@ -938,7 +938,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "НАПРАВЛЕНИЕ ГЛАВНОЙ ОСИ": {
+  "НАПРАВЛЕНИЕ_ГЛАВНОЙ_ОСИ": {
     "english": [
       "flex-direction"
     ],
@@ -946,7 +946,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ПЕРЕНОС ФЛЕКС-ЭЛЕМЕНТОВ": {
+  "ПЕРЕНОС_ФЛЕКС-ЭЛЕМЕНТОВ": {
     "english": [
       "flex-wrap"
     ],
@@ -954,7 +954,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "БАЗОВЫЙ РАЗМЕР ФЛЕКС-ЭЛЕМЕНТА ПО ГЛАВНОЙ ОСИ": {
+  "БАЗОВЫЙ_РАЗМЕР_ФЛЕКС-ЭЛЕМЕНТА_ПО_ГЛАВНОЙ_ОСИ": {
     "english": [
       "flex-basis"
     ],
@@ -962,7 +962,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "КОЭФФИЦИЕНТ РАСТЯГИВАНИЯ": {
+  "КОЭФФИЦИЕНТ_РАСТЯГИВАНИЯ": {
     "english": [
       "flex-grow"
     ],
@@ -970,7 +970,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "КОЭФФИЦИЕНТ СЖАТИЯ": {
+  "КОЭФФИЦИЕНТ_СЖАТИЯ": {
     "english": [
       "flex-shrink"
     ],
@@ -978,7 +978,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ГЛАВНАЯ ОСЬ": {
+  "ГЛАВНАЯ_ОСЬ": {
     "english": [
       "main axis"
     ],
@@ -986,7 +986,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ПОПЕРЕЧНАЯ ОСЬ": {
+  "ПОПЕРЕЧНАЯ_ОСЬ": {
     "english": [
       "cross axis"
     ],
@@ -994,7 +994,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ГЛАВНЫЙ РАЗМЕР": {
+  "ГЛАВНЫЙ_РАЗМЕР": {
     "english": [
       "main size"
     ],
@@ -1002,7 +1002,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ПОПЕРЕЧНЫЙ РАЗМЕР": {
+  "ПОПЕРЕЧНЫЙ_РАЗМЕР": {
     "english": [
       "cross size"
     ],
@@ -1010,7 +1010,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "РАСПРЕДЕЛЕНИЕ ФЛЕКС-ЭЛЕМЕНТОВ ПО ГЛАВНОЙ ОСИ": {
+  "РАСПРЕДЕЛЕНИЕ_ФЛЕКС-ЭЛЕМЕНТОВ_ПО_ГЛАВНОЙ_ОСИ": {
     "english": [
       "justify-content"
     ],
@@ -1018,7 +1018,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ВЫРАВНИВАНИЕ ФЛЕКС-ЭЛЕМЕНТОВ ПО ПОПЕРЕЧНОЙ ОСИ": {
+  "ВЫРАВНИВАНИЕ_ФЛЕКС-ЭЛЕМЕНТОВ_ПО_ПОПЕРЕЧНОЙ_ОСИ": {
     "english": [
       "align-items"
     ],
@@ -1026,7 +1026,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ВЫРАВНИВАНИЕ ФЛЕКС-ЭЛЕМЕНТА ПО ПОПЕРЕЧНОЙ ОСИ": {
+  "ВЫРАВНИВАНИЕ_ФЛЕКС-ЭЛЕМЕНТА_ПО_ПОПЕРЕЧНОЙ_ОСИ": {
     "english": [
       "align-self"
     ],
@@ -1034,7 +1034,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ВЫРАВНИВАНИЕ СТРОК КОНТЕЙНЕРА ПО ПОПЕРЕЧНОЙ ОСИ": {
+  "ВЫРАВНИВАНИЕ_СТРОК_КОНТЕЙНЕРА_ПО_ПОПЕРЕЧНОЙ_ОСИ": {
     "english": [
       "align-content"
     ],
@@ -1042,7 +1042,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ПОРЯДКОВЫЙ НОМЕР ФЛЕКС-ЭЛЕМЕНТА": {
+  "ПОРЯДКОВЫЙ_НОМЕР_ФЛЕКС-ЭЛЕМЕНТА": {
     "english": [
       "order"
     ],
@@ -1091,7 +1091,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "НАСЫЩЕННОСТЬ ШРИФТА": {
+  "НАСЫЩЕННОСТЬ_ШРИФТА": {
     "english": [
       "font-weight"
     ],
@@ -1099,7 +1099,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "СТИЛЬ ШРИФТА": {
+  "СТИЛЬ_ШРИФТА": {
     "english": [
       "font-style"
     ],
@@ -1107,7 +1107,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "РАЗМЕР ШРИФТА": {
+  "РАЗМЕР_ШРИФТА": {
     "english": [
       "font-size"
     ],
@@ -1124,10 +1124,10 @@
     "meaning": "см. РАЗМЕР ШРИФТА.",
     "resource": "github.com/web-standards-ru/dictionary",
     "related": [
-      "РАЗМЕР ШРИФТА"
+      "РАЗМЕР_ШРИФТА"
     ]
   },
-  "СЕМЕЙСТВО ШРИФТА": {
+  "СЕМЕЙСТВО_ШРИФТА": {
     "english": [
       "font-family"
     ],
@@ -1144,7 +1144,7 @@
     "meaning": "см. СЕМЕЙСТВО ШРИФТА.",
     "resource": "github.com/web-standards-ru/dictionary",
     "related": [
-      "СЕМЕЙСТВО ШРИФТА"
+      "СЕМЕЙСТВО_ШРИФТА"
     ]
   },
   "ПОДВАЛ": {
@@ -1155,7 +1155,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "КОНТЕКСТ ФОРМАТИРОВАНИЯ": {
+  "КОНТЕКСТ_ФОРМАТИРОВАНИЯ": {
     "english": [
       "formatting context"
     ],
@@ -1163,7 +1163,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "БЛОЧНЫЙ КОНТЕКСТ ФОРМАТИРОВАНИЯ": {
+  "БЛОЧНЫЙ_КОНТЕКСТ_ФОРМАТИРОВАНИЯ": {
     "english": [
       "block formatting context (BFC"
     ],
@@ -1180,10 +1180,10 @@
     "meaning": "см. БЛОЧНЫЙ КОНТЕКСТ ФОРМАТИРОВАНИЯ.",
     "resource": "github.com/web-standards-ru/dictionary",
     "related": [
-      "БЛОЧНЫЙ КОНТЕКСТ ФОРМАТИРОВАНИЯ"
+      "БЛОЧНЫЙ_КОНТЕКСТ_ФОРМАТИРОВАНИЯ"
     ]
   },
-  "КОНТЕКСТ ФОРМАТИРОВАНИЯ ГРИДОВ": {
+  "КОНТЕКСТ_ФОРМАТИРОВАНИЯ_ГРИДОВ": {
     "english": [
       "grid formatting context"
     ],
@@ -1191,7 +1191,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "КОНТЕКСТ ФОРМАТИРОВАНИЯ ФЛЕКСБОКСОВ": {
+  "КОНТЕКСТ_ФОРМАТИРОВАНИЯ_ФЛЕКСБОКСОВ": {
     "english": [
       "flexbox formatting context"
     ],
@@ -1199,7 +1199,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "СТРОЧНЫЙ КОНТЕКСТ ФОРМАТИРОВАНИЯ": {
+  "СТРОЧНЫЙ_КОНТЕКСТ_ФОРМАТИРОВАНИЯ": {
     "english": [
       "inline formatting context"
     ],
@@ -1207,7 +1207,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ТАБЛИЧНЫЙ КОНТЕКСТ ФОРМАТИРОВАНИЯ": {
+  "ТАБЛИЧНЫЙ_КОНТЕКСТ_ФОРМАТИРОВАНИЯ": {
     "english": [
       "table formatting context"
     ],
@@ -1215,7 +1215,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ИДЕНТИФИКАТОР ФРАГМЕНТА": {
+  "ИДЕНТИФИКАТОР_ФРАГМЕНТА": {
     "english": [
       "fragment identifier"
     ],
@@ -1239,7 +1239,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ПОЛНОЭКРАННЫЙ РЕЖИМ": {
+  "ПОЛНОЭКРАННЫЙ_РЕЖИМ": {
     "english": [
       "full screen"
     ],
@@ -1255,7 +1255,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "СГЕНЕРИРОВАННОЕ СОДЕРЖИМОЕ": {
+  "СГЕНЕРИРОВАННОЕ_СОДЕРЖИМОЕ": {
     "english": [
       "generated content"
     ],
@@ -1263,7 +1263,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ПОСТЕПЕННАЯ ДЕГРАДАЦИЯ": {
+  "ПОСТЕПЕННАЯ_ДЕГРАДАЦИЯ": {
     "english": [
       "graceful degradation"
     ],
@@ -1379,7 +1379,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ИКОНОЧНЫЙ ШРИФТ": {
+  "ИКОНОЧНЫЙ_ШРИФТ": {
     "english": [
       "icon font"
     ],
@@ -1425,7 +1425,7 @@
       "ВСТРОЕННЫЙ"
     ]
   },
-  "СТРОЧНЫЙ БЛОК": {
+  "СТРОЧНЫЙ_БЛОК": {
     "english": [
       "inline block"
     ],
@@ -1433,7 +1433,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ЭЛЕМЕНТ СТРОКИ В СТРОЧНОМ ФОРМАТИРОВАНИИ": {
+  "ЭЛЕМЕНТ_СТРОКИ_В_СТРОЧНОМ_ФОРМАТИРОВАНИИ": {
     "english": [
       "inline box"
     ],
@@ -1441,7 +1441,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "СТРОЧНЫЙ ЭЛЕМЕНТ": {
+  "СТРОЧНЫЙ_ЭЛЕМЕНТ": {
     "english": [
       "inline element"
     ],
@@ -1459,7 +1459,7 @@
       "СТРОЧНЫЙ"
     ]
   },
-  "ВСТРОЕННЫЕ СТИЛИ": {
+  "ВСТРОЕННЫЕ_СТИЛИ": {
     "english": [
       "inline styles"
     ],
@@ -1467,7 +1467,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ВСТРОЕННЫЙ SVG": {
+  "ВСТРОЕННЫЙ_SVG": {
     "english": [
       "inline SVG"
     ],
@@ -1475,7 +1475,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ВСТРОЕННЫЙ СКРИПТ": {
+  "ВСТРОЕННЫЙ_СКРИПТ": {
     "english": [
       "inline script"
     ],
@@ -1483,7 +1483,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ЭЛЕМЕНТ ФОРМЫ": {
+  "ЭЛЕМЕНТ_ФОРМЫ": {
     "english": [
       "input"
     ],
@@ -1507,7 +1507,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "КЛЮЧЕВОЙ КАДР": {
+  "КЛЮЧЕВОЙ_КАДР": {
     "english": [
       "keyframe"
     ],
@@ -1515,7 +1515,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ПОКАДРОВАЯ АНИМАЦИЯ": {
+  "ПОКАДРОВАЯ_АНИМАЦИЯ": {
     "english": [
       "keyframe animation"
     ],
@@ -1523,7 +1523,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "КЛЮЧЕВОЕ СЛОВО": {
+  "КЛЮЧЕВОЕ_СЛОВО": {
     "english": [
       "keyword"
     ],
@@ -1539,7 +1539,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ПОСЛЕДНИЙ ЧЕРНОВИК": {
+  "ПОСЛЕДНИЙ_ЧЕРНОВИК": {
     "english": [
       "last call (LC"
     ],
@@ -1571,7 +1571,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "МЕЖБУКВЕННОЕ РАССТОЯНИЕ": {
+  "МЕЖБУКВЕННОЕ_РАССТОЯНИЕ": {
     "english": [
       "letter-spacing"
     ],
@@ -1588,7 +1588,7 @@
     "meaning": "см. МЕЖБУКВЕННОЕ РАССТОЯНИЕ.",
     "resource": "github.com/web-standards-ru/dictionary",
     "related": [
-      "МЕЖБУКВЕННОЕ РАССТОЯНИЕ"
+      "МЕЖБУКВЕННОЕ_РАССТОЯНИЕ"
     ]
   },
   "БИБЛИОТЕКА": {
@@ -1599,7 +1599,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "КОНТЕЙНЕР СТРОКИ": {
+  "КОНТЕЙНЕР_СТРОКИ": {
     "english": [
       "line-box"
     ],
@@ -1607,7 +1607,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ВЫСОТА СТРОКИ": {
+  "ВЫСОТА_СТРОКИ": {
     "english": [
       "line-height"
     ],
@@ -1624,7 +1624,7 @@
     "meaning": "см. ВЫСОТА СТРОКИ.",
     "resource": "github.com/web-standards-ru/dictionary",
     "related": [
-      "ВЫСОТА СТРОКИ"
+      "ВЫСОТА_СТРОКИ"
     ]
   },
   "СПИСОК": {
@@ -1635,7 +1635,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "УПОРЯДОЧЕННЫЙ СПИСОК": {
+  "УПОРЯДОЧЕННЫЙ_СПИСОК": {
     "english": [
       "ordered list"
     ],
@@ -1643,7 +1643,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "НЕУПОРЯДОЧЕННЫЙ СПИСОК": {
+  "НЕУПОРЯДОЧЕННЫЙ_СПИСОК": {
     "english": [
       "unordered list"
     ],
@@ -1651,7 +1651,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "СТИЛЬ СПИСКА": {
+  "СТИЛЬ_СПИСКА": {
     "english": [
       "list-style"
     ],
@@ -1659,7 +1659,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ВНЕШНИЙ ОТСТУП": {
+  "ВНЕШНИЙ_ОТСТУП": {
     "english": [
       "margin"
     ],
@@ -1667,7 +1667,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ВНЕШНИЕ ОТСТУПЫ": {
+  "ВНЕШНИЕ_ОТСТУПЫ": {
     "english": [
       "margin box"
     ],
@@ -1691,7 +1691,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "УСЛОВИЯ МЕДИАВЫРАЖЕНИЯ": {
+  "УСЛОВИЯ_МЕДИАВЫРАЖЕНИЯ": {
     "english": [
       "media query list"
     ],
@@ -1699,7 +1699,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ТИП УСТРОЙСТВА": {
+  "ТИП_УСТРОЙСТВА": {
     "english": [
       "media type"
     ],
@@ -1707,7 +1707,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ХАРАКТЕРИСТИКА УСТРОЙСТВА": {
+  "ХАРАКТЕРИСТИКА_УСТРОЙСТВА": {
     "english": [
       "media feature"
     ],
@@ -1723,7 +1723,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "СНАЧАЛА МОБИЛЬНЫЕ": {
+  "СНАЧАЛА_МОБИЛЬНЫЕ": {
     "english": [
       "mobile first"
     ],
@@ -1731,7 +1731,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ФИКТИВНЫЙ ОБЪЕКТ": {
+  "ФИКТИВНЫЙ_ОБЪЕКТ": {
     "english": [
       "mock object"
     ],
@@ -1754,11 +1754,11 @@
     "meaning": "блокирующий интерфейс для выполнения какого-либо действия, напр. modal dialog — модальный диалог.",
     "resource": "github.com/web-standards-ru/dictionary",
     "related": [
-      "МОДАЛЬНОЕ ОКНО",
+      "МОДАЛЬНОЕ_ОКНО",
       "ДИАЛОГ"
     ]
   },
-  "МОДАЛЬНОЕ ОКНО": {
+  "МОДАЛЬНОЕ_ОКНО": {
     "english": [
       "modal"
     ],
@@ -1777,7 +1777,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": [
       "МОДАЛЬНЫЙ",
-      "МОДАЛЬНОЕ ОКНО"
+      "МОДАЛЬНОЕ_ОКНО"
     ]
   },
   "МНОЖЕСТВЕННЫЙ": {
@@ -1831,10 +1831,10 @@
     "meaning": "",
     "resource": "github.com/web-standards-ru/dictionary",
     "related": [
-      "ЧИСЛОВОЙ ТИП"
+      "ЧИСЛОВОЙ_ТИП"
     ]
   },
-  "ЧИСЛОВОЙ ТИП": {
+  "ЧИСЛОВОЙ_ТИП": {
     "english": [
       "number"
     ],
@@ -1868,7 +1868,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "МЕНЕДЖЕР ПАКЕТОВ": {
+  "МЕНЕДЖЕР_ПАКЕТОВ": {
     "english": [
       "package manager"
     ],
@@ -1876,7 +1876,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ВНУТРЕННИЙ ОТСТУП": {
+  "ВНУТРЕННИЙ_ОТСТУП": {
     "english": [
       "padding"
     ],
@@ -1884,24 +1884,24 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ПОСТРАНИЧНАЯ НАВИГАЦИЯ": {
+  "ПОСТРАНИЧНАЯ_НАВИГАЦИЯ": {
     "english": [
       "pagination"
     ],
     "meaning": "обычно список ссылок с номерами страниц, на которые разбит документ.",
     "resource": "github.com/web-standards-ru/dictionary",
     "related": [
-      "РАЗДЕЛЕНИЕ НА СТРАНИЦЫ"
+      "РАЗДЕЛЕНИЕ_НА_СТРАНИЦЫ"
     ]
   },
-  "РАЗДЕЛЕНИЕ НА СТРАНИЦЫ": {
+  "РАЗДЕЛЕНИЕ_НА_СТРАНИЦЫ": {
     "english": [
       "pagination"
     ],
     "meaning": "разделение документа на отдельные страницы для удобства чтения, загрузки или других целей.",
     "resource": "github.com/web-standards-ru/dictionary",
     "related": [
-      "ПОСТРАНИЧНАЯ НАВИГАЦИЯ"
+      "ПОСТРАНИЧНАЯ_НАВИГАЦИЯ"
     ]
   },
   "ПАТТЕРН": {
@@ -1920,7 +1920,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ПРОЦЕНТНОЕ ЗНАЧЕНИЕ": {
+  "ПРОЦЕНТНОЕ_ЗНАЧЕНИЕ": {
     "english": [
       "percentage"
     ],
@@ -1937,7 +1937,7 @@
     "meaning": "",
     "resource": "github.com/web-standards-ru/dictionary",
     "related": [
-      "ПРОЦЕНТНОЕ ЗНАЧЕНИЕ"
+      "ПРОЦЕНТНОЕ_ЗНАЧЕНИЕ"
     ]
   },
   "БЫСТРОДЕЙСТВИЕ": {
@@ -1948,7 +1948,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "БЮДЖЕТ НА БЫСТРОДЕЙСТВИЕ": {
+  "БЮДЖЕТ_НА_БЫСТРОДЕЙСТВИЕ": {
     "english": [
       "performance budget"
     ],
@@ -1956,7 +1956,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ПОСТОЯННЫЕ СТРУКТУРЫ ДАННЫХ": {
+  "ПОСТОЯННЫЕ_СТРУКТУРЫ_ДАННЫХ": {
     "english": [
       "persistent data structures"
     ],
@@ -1964,7 +1964,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "СВЕДЕНИЕ (РАЗВЕДЕНИЕ) ПАЛЬЦЕВ": {
+  "СВЕДЕНИЕ_(РАЗВЕДЕНИЕ)_ПАЛЬЦЕВ": {
     "english": [
       "pinch"
     ],
@@ -1980,7 +1980,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ФИЗИЧЕСКИЙ ПИКСЕЛЬ": {
+  "ФИЗИЧЕСКИЙ_ПИКСЕЛЬ": {
     "english": [
       "physical pixel"
     ],
@@ -1988,7 +1988,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ВИРТУАЛЬНЫЙ ПИКСЕЛЬ": {
+  "ВИРТУАЛЬНЫЙ_ПИКСЕЛЬ": {
     "english": [
       "device independent pixel (dip"
     ],
@@ -1996,7 +1996,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "РАСТРОВЫЙ ПИКСЕЛЬ": {
+  "РАСТРОВЫЙ_ПИКСЕЛЬ": {
     "english": [
       "bitmap pixel"
     ],
@@ -2004,7 +2004,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ПЛОТНОСТЬ ПИКСЕЛЕЙ": {
+  "ПЛОТНОСТЬ_ПИКСЕЛЕЙ": {
     "english": [
       "pixel density"
     ],
@@ -2012,7 +2012,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ПИКСЕЛЬНОЕ СООТНОШЕНИЕ": {
+  "ПИКСЕЛЬНОЕ_СООТНОШЕНИЕ": {
     "english": [
       "pixel ratio"
     ],
@@ -2027,10 +2027,10 @@
     "meaning": "временный заменитель картинки, текста и т.п. Напр.: Вместо портрета президента вставь пока заглушку с котиками. (stub object)",
     "resource": "github.com/web-standards-ru/dictionary",
     "related": [
-      "ПОДСКАЗКА ПОЛЯ"
+      "ПОДСКАЗКА_ПОЛЯ"
     ]
   },
-  "ПОДСКАЗКА ПОЛЯ": {
+  "ПОДСКАЗКА_ПОЛЯ": {
     "english": [
       "placeholder"
     ],
@@ -2040,7 +2040,7 @@
       "ЗАГЛУШКА"
     ]
   },
-  "ПИКСЕЛЕЙ НА ДЮЙМ": {
+  "ПИКСЕЛЕЙ_НА_ДЮЙМ": {
     "english": [
       "pixel per inch (ppi"
     ],
@@ -2056,7 +2056,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ПРОГРЕССИВНЫЕ ВЕБ-МЕТРИКИ": {
+  "ПРОГРЕССИВНЫЕ_ВЕБ-МЕТРИКИ": {
     "english": [
       "progressive web metrics"
     ],
@@ -2064,7 +2064,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ПЕРВАЯ ОТРИСОВКА": {
+  "ПЕРВАЯ_ОТРИСОВКА": {
     "english": [
       "first paint"
     ],
@@ -2072,7 +2072,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ПЕРВАЯ СУЩЕСТВЕННАЯ ОТРИСОВКА": {
+  "ПЕРВАЯ_СУЩЕСТВЕННАЯ_ОТРИСОВКА": {
     "english": [
       "first contentful paint (FCP"
     ],
@@ -2080,7 +2080,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ПЕРВАЯ ЗНАЧИМАЯ ОТРИСОВКА": {
+  "ПЕРВАЯ_ЗНАЧИМАЯ_ОТРИСОВКА": {
     "english": [
       "first meaningful paint"
     ],
@@ -2088,7 +2088,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ВИЗУАЛЬНАЯ ГОТОВНОСТЬ": {
+  "ВИЗУАЛЬНАЯ_ГОТОВНОСТЬ": {
     "english": [
       "visually ready"
     ],
@@ -2096,7 +2096,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ВИЗУАЛЬНАЯ ЗАВЕРШЁННОСТЬ": {
+  "ВИЗУАЛЬНАЯ_ЗАВЕРШЁННОСТЬ": {
     "english": [
       "visually complete"
     ],
@@ -2104,7 +2104,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ПЕРВАЯ ИНТЕРАКТИВНОСТЬ": {
+  "ПЕРВАЯ_ИНТЕРАКТИВНОСТЬ": {
     "english": [
       "first interactive"
     ],
@@ -2112,7 +2112,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ОЖИДАЕМАЯ ЗАДЕРЖКА ВВОДА": {
+  "ОЖИДАЕМАЯ_ЗАДЕРЖКА_ВВОДА": {
     "english": [
       "estimated input latency"
     ],
@@ -2120,7 +2120,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ВРЕМЯ ДО ПЕРВОЙ ИНТЕРАКТИВНОСТИ": {
+  "ВРЕМЯ_ДО_ПЕРВОЙ_ИНТЕРАКТИВНОСТИ": {
     "english": [
       "time to interactive (TTI"
     ],
@@ -2128,7 +2128,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ВРЕМЯ ДО СТАБИЛЬНОЙ ИНТЕРАКТИВНОСТИ": {
+  "ВРЕМЯ_ДО_СТАБИЛЬНОЙ_ИНТЕРАКТИВНОСТИ": {
     "english": [
       "time to first consistently interactive"
     ],
@@ -2136,7 +2136,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "НАИБОЛЬШАЯ СУЩЕСТВЕННАЯ ОТРИСОВКА": {
+  "НАИБОЛЬШАЯ_СУЩЕСТВЕННАЯ_ОТРИСОВКА": {
     "english": [
       "largest contentful paint (LCP"
     ],
@@ -2144,7 +2144,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "СОВОКУПНОЕ ИЗМЕНЕНИЕ РАСКЛАДКИ": {
+  "СОВОКУПНОЕ_ИЗМЕНЕНИЕ_РАСКЛАДКИ": {
     "english": [
       "cumulative layout shift (CLS"
     ],
@@ -2152,7 +2152,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "СУММАРНОЕ ВРЕМЯ БЛОКИРОВКИ": {
+  "СУММАРНОЕ_ВРЕМЯ_БЛОКИРОВКИ": {
     "english": [
       "total blocking time (TBT"
     ],
@@ -2160,7 +2160,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ВРЕМЯ ОТКЛИКА НА ПЕРВОЕ ВЗАИМОДЕЙСТВИЕ": {
+  "ВРЕМЯ_ОТКЛИКА_НА_ПЕРВОЕ_ВЗАИМОДЕЙСТВИЕ": {
     "english": [
       "first input delay (FID"
     ],
@@ -2176,7 +2176,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ВСПЛЫВАЮЩЕЕ ОКНО": {
+  "ВСПЛЫВАЮЩЕЕ_ОКНО": {
     "english": [
       "popup"
     ],
@@ -2193,7 +2193,7 @@
     "meaning": "см. ВСПЛЫВАЮЩЕЕ ОКНО.",
     "resource": "github.com/web-standards-ru/dictionary",
     "related": [
-      "ВСПЛЫВАЮЩЕЕ ОКНО"
+      "ВСПЛЫВАЮЩЕЕ_ОКНО"
     ]
   },
   "ПОЗИЦИОНИРОВАНИЕ": {
@@ -2212,7 +2212,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ИНДИКАТОР ВЫПОЛНЕНИЯ": {
+  "ИНДИКАТОР_ВЫПОЛНЕНИЯ": {
     "english": [
       "progress bar"
     ],
@@ -2220,7 +2220,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ПРОГРЕССИВНОЕ УЛУЧШЕНИЕ": {
+  "ПРОГРЕССИВНОЕ_УЛУЧШЕНИЕ": {
     "english": [
       "progressive enhancement"
     ],
@@ -2228,7 +2228,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ПРОГРЕССИВНОЕ ВЕБ-ПРИЛОЖЕНИЕ": {
+  "ПРОГРЕССИВНОЕ_ВЕБ-ПРИЛОЖЕНИЕ": {
     "english": [
       "Progressive Web App (PWA"
     ],
@@ -2252,7 +2252,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ПРЕДЛОЖЕННАЯ РЕКОМЕНДАЦИЯ": {
+  "ПРЕДЛОЖЕННАЯ_РЕКОМЕНДАЦИЯ": {
     "english": [
       "proposed recommendation (PR"
     ],
@@ -2284,7 +2284,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "РЕЖИМ СОВМЕСТИМОСТИ": {
+  "РЕЖИМ_СОВМЕСТИМОСТИ": {
     "english": [
       "quirks mode"
     ],
@@ -2372,7 +2372,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ОТЗЫВЧИВЫЙ ДИЗАЙН": {
+  "ОТЗЫВЧИВЫЙ_ДИЗАЙН": {
     "english": [
       "responsive design"
     ],
@@ -2380,7 +2380,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ОБЩЕСТВЕННАЯ ГРУППА ПО АДАПТИВНЫМ ИЗОБРАЖЕНИЯМ": {
+  "ОБЩЕСТВЕННАЯ_ГРУППА_ПО_АДАПТИВНЫМ_ИЗОБРАЖЕНИЯМ": {
     "english": [
       "Responsive Images Community Group (RICG"
     ],
@@ -2388,25 +2388,25 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ОСТАТОЧНЫЕ ПАРАМЕТРЫ": {
+  "ОСТАТОЧНЫЕ_ПАРАМЕТРЫ": {
     "english": [
       "rest parameters"
     ],
     "meaning": "синтаксис в JavaScript, позволяющий представить неименованные параметры функции в виде массива.",
     "resource": "github.com/web-standards-ru/dictionary",
     "related": [
-      "ОСТАВШИЕСЯ ПАРАМЕТРЫ",
+      "ОСТАВШИЕСЯ_ПАРАМЕТРЫ",
       "РЕСТ-ПАРАМЕТРЫ"
     ]
   },
-  "ОСТАВШИЕСЯ ПАРАМЕТРЫ": {
+  "ОСТАВШИЕСЯ_ПАРАМЕТРЫ": {
     "english": [
       "rest parameters"
     ],
     "meaning": "см. ОСТАТОЧНЫЕ ПАРАМЕТРЫ.",
     "resource": "github.com/web-standards-ru/dictionary",
     "related": [
-      "ОСТАТОЧНЫЕ ПАРАМЕТРЫ",
+      "ОСТАТОЧНЫЕ_ПАРАМЕТРЫ",
       "РЕСТ-ПАРАМЕТРЫ"
     ]
   },
@@ -2417,8 +2417,8 @@
     "meaning": "см. ОСТАТОЧНЫЕ ПАРАМЕТРЫ.",
     "resource": "github.com/web-standards-ru/dictionary",
     "related": [
-      "ОСТАТОЧНЫЕ ПАРАМЕТРЫ",
-      "ОСТАВШИЕСЯ ПАРАМЕТРЫ"
+      "ОСТАТОЧНЫЕ_ПАРАМЕТРЫ",
+      "ОСТАВШИЕСЯ_ПАРАМЕТРЫ"
     ]
   },
   "КОРЕНЬ": {
@@ -2429,7 +2429,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "СКРУГЛЁННЫЕ УГЛЫ": {
+  "СКРУГЛЁННЫЕ_УГЛЫ": {
     "english": [
       "rounded corners"
     ],
@@ -2445,7 +2445,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ОБЪЕДИНЕНИЕ СТРОК": {
+  "ОБЪЕДИНЕНИЕ_СТРОК": {
     "english": [
       "rowspan"
     ],
@@ -2453,7 +2453,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "БЛОК СТИЛЕЙ ЭЛЕМЕНТА": {
+  "БЛОК_СТИЛЕЙ_ЭЛЕМЕНТА": {
     "english": [
       "rule-set"
     ],
@@ -2461,7 +2461,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ПОВЕРХНОСТНОЕ СРАВНЕНИЕ": {
+  "ПОВЕРХНОСТНОЕ_СРАВНЕНИЕ": {
     "english": [
       "shallow comparison"
     ],
@@ -2497,7 +2497,7 @@
       "МАСШТАБ"
     ]
   },
-  "ОБЛАСТЬ ВИДИМОСТИ": {
+  "ОБЛАСТЬ_ВИДИМОСТИ": {
     "english": [
       "scope"
     ],
@@ -2541,7 +2541,7 @@
       "ПРОКРУТКА"
     ]
   },
-  "ПОЛОСА ПРОКРУТКИ": {
+  "ПОЛОСА_ПРОКРУТКИ": {
     "english": [
       "scrollbar"
     ],
@@ -2549,7 +2549,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "СТРУКТУРНЫЕ ОСНОВЫ": {
+  "СТРУКТУРНЫЕ_ОСНОВЫ": {
     "english": [
       "sectioning roots"
     ],
@@ -2581,24 +2581,24 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ТЕНЕВОЙ DOM": {
+  "ТЕНЕВОЙ_DOM": {
     "english": [
       "shadow DOM"
     ],
     "meaning": "",
     "resource": "github.com/web-standards-ru/dictionary",
     "related": [
-      "ТЕНЕВАЯ МОДЕЛЬ ДОКУМЕНТА"
+      "ТЕНЕВАЯ_МОДЕЛЬ_ДОКУМЕНТА"
     ]
   },
-  "ТЕНЕВАЯ МОДЕЛЬ ДОКУМЕНТА": {
+  "ТЕНЕВАЯ_МОДЕЛЬ_ДОКУМЕНТА": {
     "english": [
       "shadow DOM"
     ],
     "meaning": "",
     "resource": "github.com/web-standards-ru/dictionary",
     "related": [
-      "ТЕНЕВОЙ DOM"
+      "ТЕНЕВОЙ_DOM"
     ]
   },
   "ФИГУРЫ": {
@@ -2657,7 +2657,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "БОКОВАЯ ПАНЕЛЬ": {
+  "БОКОВАЯ_ПАНЕЛЬ": {
     "english": [
       "sidebar"
     ],
@@ -2685,7 +2685,7 @@
       "НАКЛОН"
     ]
   },
-  "КАРТЫ КОДА": {
+  "КАРТЫ_КОДА": {
     "english": [
       "source maps"
     ],
@@ -2718,7 +2718,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "КОНТЕКСТ НАЛОЖЕНИЯ": {
+  "КОНТЕКСТ_НАЛОЖЕНИЯ": {
     "english": [
       "stacking context"
     ],
@@ -2726,7 +2726,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ОТЛАДОЧНЫЙ СЕРВЕР": {
+  "ОТЛАДОЧНЫЙ_СЕРВЕР": {
     "english": [
       "staging server"
     ],
@@ -2734,7 +2734,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "СТАНДАРТНЫЙ РЕЖИМ": {
+  "СТАНДАРТНЫЙ_РЕЖИМ": {
     "english": [
       "standards mode",
       "standards compliance mode"
@@ -2751,7 +2751,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "СТРОКОВЫЙ ТИП": {
+  "СТРОКОВЫЙ_ТИП": {
     "english": [
       "string"
     ],
@@ -2768,7 +2768,7 @@
     "meaning": "в CSS — строковое значение директивы или свойства. Напр., в content: \"\\201d\" строкой является \"\\201d\". 2. (row) горизонтальная область в таблице или раскладке; элемент таблицы <tr>.",
     "resource": "github.com/web-standards-ru/dictionary",
     "related": [
-      "СТРОКОВЫЙ ТИП"
+      "СТРОКОВЫЙ_ТИП"
     ]
   },
   "СТИЛИ": {
@@ -2791,7 +2791,7 @@
       "СТИЛИ"
     ]
   },
-  "РУКОВОДСТВО ПО СТИЛЮ": {
+  "РУКОВОДСТВО_ПО_СТИЛЮ": {
     "english": [
       "style guide"
     ],
@@ -2799,7 +2799,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ТАБЛИЦА СТИЛЕЙ": {
+  "ТАБЛИЦА_СТИЛЕЙ": {
     "english": [
       "stylesheet"
     ],
@@ -2867,7 +2867,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ТЕКСТОВАЯ ОБЛАСТЬ": {
+  "ТЕКСТОВАЯ_ОБЛАСТЬ": {
     "english": [
       "textarea"
     ],
@@ -2895,7 +2895,7 @@
       "ВЫРАВНИВАНИЕ"
     ]
   },
-  "ТЕНЬ ТЕКСТА": {
+  "ТЕНЬ_ТЕКСТА": {
     "english": [
       "text-shadow"
     ],
@@ -2947,7 +2947,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ВСПЛЫВАЮЩАЯ ПОДСКАЗКА": {
+  "ВСПЛЫВАЮЩАЯ_ПОДСКАЗКА": {
     "english": [
       "tooltip"
     ],
@@ -2955,7 +2955,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "СЕНСОРНЫЙ ИНТЕРФЕЙС": {
+  "СЕНСОРНЫЙ_ИНТЕРФЕЙС": {
     "english": [
       "touch interface"
     ],
@@ -3003,7 +3003,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ЕДИНИЦА ИЗМЕНЕНИЯ": {
+  "ЕДИНИЦА_ИЗМЕНЕНИЯ": {
     "english": [
       "unit"
     ],
@@ -3011,7 +3011,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "МОДУЛЬНОЕ ТЕСТИРОВАНИЕ": {
+  "МОДУЛЬНОЕ_ТЕСТИРОВАНИЕ": {
     "english": [
       "unit testing"
     ],
@@ -3019,7 +3019,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "УНИФИЦИРОВАННЫЙ ИДЕНТИФИКАТОР РЕСУРСА": {
+  "УНИФИЦИРОВАННЫЙ_ИДЕНТИФИКАТОР_РЕСУРСА": {
     "english": [
       "URI"
     ],
@@ -3034,10 +3034,10 @@
     "meaning": "см. УНИФИЦИРОВАННЫЙ УКАЗАТЕЛЬ РЕСУРСА. Значение рекомендовано к использованию при переводах статей.",
     "resource": "github.com/web-standards-ru/dictionary",
     "related": [
-      "УНИФИЦИРОВАННЫЙ УКАЗАТЕЛЬ РЕСУРСА"
+      "УНИФИЦИРОВАННЫЙ_УКАЗАТЕЛЬ_РЕСУРСА"
     ]
   },
-  "УНИФИЦИРОВАННЫЙ УКАЗАТЕЛЬ РЕСУРСА": {
+  "УНИФИЦИРОВАННЫЙ_УКАЗАТЕЛЬ_РЕСУРСА": {
     "english": [
       "URL"
     ],
@@ -3047,7 +3047,7 @@
       "АДРЕС"
     ]
   },
-  "ПОЛЬЗОВАТЕЛЬСКИЙ ОПЫТ": {
+  "ПОЛЬЗОВАТЕЛЬСКИЙ_ОПЫТ": {
     "english": [
       "user experience (UX"
     ],
@@ -3055,7 +3055,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ПОЛЬЗОВАТЕЛЬСКИЙ ИНТЕРФЕЙС": {
+  "ПОЛЬЗОВАТЕЛЬСКИЙ_ИНТЕРФЕЙС": {
     "english": [
       "user interface (UI"
     ],
@@ -3095,7 +3095,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "БРАУЗЕРНЫЙ ПРЕФИКС": {
+  "БРАУЗЕРНЫЙ_ПРЕФИКС": {
     "english": [
       "vendor prefix"
     ],
@@ -3103,7 +3103,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "СТОРОННИЕ ФАЙЛЫ": {
+  "СТОРОННИЕ_ФАЙЛЫ": {
     "english": [
       "vendor files"
     ],
@@ -3111,7 +3111,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ВЕРТИКАЛЬНОЕ ВЫРАВНИВАНИЕ": {
+  "ВЕРТИКАЛЬНОЕ_ВЫРАВНИВАНИЕ": {
     "english": [
       "vertical-align"
     ],
@@ -3144,7 +3144,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "РАБОЧИЙ ЧЕРНОВИК": {
+  "РАБОЧИЙ_ЧЕРНОВИК": {
     "english": [
       "working draft (WD"
     ],
@@ -3160,7 +3160,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "КОНСОРЦИУМ ВСЕМИРНОЙ СЕТИ": {
+  "КОНСОРЦИУМ_ВСЕМИРНОЙ_СЕТИ": {
     "english": [
       "World Wide Web Consortium (W3C"
     ],
@@ -3184,7 +3184,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "МЕЖСЛОВНЫЙ ПРОБЕЛ": {
+  "МЕЖСЛОВНЫЙ_ПРОБЕЛ": {
     "english": [
       "word-spacing"
     ],
@@ -3192,7 +3192,7 @@
     "resource": "github.com/web-standards-ru/dictionary",
     "related": []
   },
-  "ОБХОДНОЕ РЕШЕНИЕ": {
+  "ОБХОДНОЕ_РЕШЕНИЕ": {
     "english": [
       "workaround"
     ],
