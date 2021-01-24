@@ -11,6 +11,7 @@ with open('./dictionary.json') as json_dict:
             '(') + 1:item_array[0].find(')')].split(',')
 
         new_item = {
+            "word": key.capitalize(),
             "english": [x.strip(' ') for x in english_translation],
             "meaning": item_array[0][item_array[0].find(')') + 2:].strip(),
             "resource": item_array[1].strip(),
