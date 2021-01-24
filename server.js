@@ -5,6 +5,23 @@ var querystring = require("querystring");
 
 var dictionary = null;
 
+var buildHtml = (dict_entry) => {
+  var header = "test";
+  var body = "Значение: " + dict_entry["meaning"];
+
+  // concatenate header string
+  // concatenate body string
+
+  return (
+    "<!DOCTYPE html>\n" +
+    "<html>\n<head><title>" +
+    header +
+    "</title></head>\n<body>" +
+    body +
+    "</body>\n</html>"
+  );
+};
+
 var dictionaryHandler = (request, response) => {
   var query = querystring.unescape(request.url);
 
@@ -32,9 +49,10 @@ var dictionaryHandler = (request, response) => {
     return;
   }
   response.writeHead(200, {
-    "Content-Type": "application/json; charset=utf-8",
+    "Content-Type": "text/html; charset=utf-8",
   });
-  response.end(JSON.stringify(def));
+  // response.end(JSON.stringify(def));
+  response.end(buildHtml(def));
 };
 
 var downloadDictionary = (url, file, callback) => {
