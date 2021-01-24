@@ -23,6 +23,8 @@ var buildHtml = (dict_entry) => {
     );
   }
   body += "<p>Связи: " + related_words.join(", ") + "</p>";
+  // body += "<p>Источник: " + dict_entry["resource"] + "</p>";
+  body += `<p>Источник: <a href="https://${dict_entry["resource"]}">${dict_entry["resource"]}</a></p>`;
   return (
     "<!DOCTYPE html>\n" +
     "<html>\n<head><title>" +
