@@ -30,7 +30,9 @@
     ],
     "meaning": "гиперссылка между двумя документами.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ЯКОРЬ"
+    ]
   },
   "ЯКОРЬ": {
     "english": [
@@ -38,7 +40,9 @@
     ],
     "meaning": "ссылка на элемент в пределах документа, может быть частью гиперссылки.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ССЫЛКА"
+    ]
   },
   "АНИМАЦИЯ": {
     "english": [
@@ -134,7 +138,9 @@
     ],
     "meaning": "структурная часть объявления. Заключается в фигурные скобки и содержит декларации свойств (или, в случае медиавыражения, блоки стилей).",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "БЛОЧНЫЙ ВИД"
+    ]
   },
   "БЛОЧНЫЙ ВИД": {
     "english": [
@@ -142,7 +148,9 @@
     ],
     "meaning": "см. ВИД.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "БЛОК ДЕКЛАРАЦИЙ"
+    ]
   },
   "БЛОЧНАЯ ЦИТАТА": {
     "english": [
@@ -206,7 +214,9 @@
     ],
     "meaning": "строка в коде, на которой выполнение скрипта приостанавливается для вызова отладчика.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "КОНТРОЛЬНАЯ ТОЧКА"
+    ]
   },
   "КОНТРОЛЬНАЯ ТОЧКА": {
     "english": [
@@ -214,7 +224,9 @@
     ],
     "meaning": "условие, при котором раскладка сайта меняется с одной на другую. Характерно для медиавыражений.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ТОЧКА ОСТАНОВА"
+    ]
   },
   "БРАУЗЕР": {
     "english": [
@@ -303,7 +315,9 @@
     ],
     "meaning": "",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ДОЧЕРНИЙ"
+    ]
   },
   "ДОЧЕРНИЙ": {
     "english": [
@@ -311,7 +325,9 @@
     ],
     "meaning": "напр. child process — дочерний процесс.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ПОТОМОК"
+    ]
   },
   "КЛАССЯНКА": {
     "english": [
@@ -375,7 +391,11 @@
     ],
     "meaning": "неисчисл. (как сахар), напр. error in code — ошибка в коде, но не ошибка в кодах (неправильно).",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ПИСАТЬ КОД",
+      "ПРОГРАММИРОВАТЬ",
+      "ВЕРСТАТЬ"
+    ]
   },
   "ПИСАТЬ КОД": {
     "english": [
@@ -383,7 +403,11 @@
     ],
     "meaning": "",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "КОД",
+      "ПРОГРАММИРОВАТЬ",
+      "ВЕРСТАТЬ"
+    ]
   },
   "ПРОГРАММИРОВАТЬ": {
     "english": [
@@ -391,7 +415,11 @@
     ],
     "meaning": "",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "КОД",
+      "ПИСАТЬ КОД",
+      "ВЕРСТАТЬ"
+    ]
   },
   "ВЕРСТАТЬ": {
     "english": [
@@ -399,7 +427,11 @@
     ],
     "meaning": "",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "КОД",
+      "ПИСАТЬ КОД",
+      "ПРОГРАММИРОВАТЬ"
+    ]
   },
   "ОБЪЕДИНЕНИЕ СТОЛБЦОВ": {
     "english": [
@@ -415,7 +447,9 @@
     ],
     "meaning": "вертикальная область в таблице, раскладке или тексте.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "СТОЛБЕЦ"
+    ]
   },
   "СТОЛБЕЦ": {
     "english": [
@@ -423,7 +457,9 @@
     ],
     "meaning": "см. КОЛОНКА.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "КОЛОНКА"
+    ]
   },
   "ЦВЕТ": {
     "english": [
@@ -527,7 +563,9 @@
     ],
     "meaning": "custom element — кастомный элемент; custom attribute — кастомный атрибут.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ПОЛЬЗОВАТЕЛЬСКИЙ"
+    ]
   },
   "ПОЛЬЗОВАТЕЛЬСКИЙ": {
     "english": [
@@ -535,7 +573,9 @@
     ],
     "meaning": "см. КАСТОМНЫЙ.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "КАСТОМНЫЙ"
+    ]
   },
   "СВЯЗЫВАНИЕ ДАННЫХ": {
     "english": [
@@ -568,7 +608,11 @@
     ],
     "meaning": "публикация изменений либо напрямую на публичный сервер (продакшен), либо через промежуточные системы и процессы автоматической сборки.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ДЕПЛОЙ",
+      "ВЫКЛАДКА",
+      "ВЫКАТКА"
+    ]
   },
   "ДЕПЛОЙ": {
     "english": [
@@ -576,7 +620,11 @@
     ],
     "meaning": "см. РАЗВЁРТЫВАНИЕ.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "РАЗВЁРТЫВАНИЕ",
+      "ВЫКЛАДКА",
+      "ВЫКАТКА"
+    ]
   },
   "ВЫКЛАДКА": {
     "english": [
@@ -584,7 +632,11 @@
     ],
     "meaning": "см. РАЗВЁРТЫВАНИЕ.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "РАЗВЁРТЫВАНИЕ",
+      "ДЕПЛОЙ",
+      "ВЫКАТКА"
+    ]
   },
   "ВЫКАТКА": {
     "english": [
@@ -592,7 +644,11 @@
     ],
     "meaning": "см. РАЗВЁРТЫВАНИЕ.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "РАЗВЁРТЫВАНИЕ",
+      "ДЕПЛОЙ",
+      "ВЫКЛАДКА"
+    ]
   },
   "УСТАРЕВШИЙ": {
     "english": [
@@ -608,7 +664,9 @@
     ],
     "meaning": "визуальный облик сайта, может включать принципы взаимодействия и архитектурные решения, напр. new design for a site — новый дизайн для сайта.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "РАЗРАБАТЫВАТЬ"
+    ]
   },
   "РАЗРАБАТЫВАТЬ": {
     "english": [
@@ -616,7 +674,9 @@
     ],
     "meaning": "создавать или проектировать внешний вид и функциональность.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ДИЗАЙН"
+    ]
   },
   "ПРОВЕРКА НА ГРЯЗНЫЕ СВОЙСТВА ОБЪЕКТА": {
     "english": [
@@ -648,7 +708,9 @@
     ],
     "meaning": "css-свойство, определяющее тип отображения блока; display: none — скрытый вид; display: block — блочный вид; display: inline — строчный вид; display: inline-block — вид строчного блока; display: flex — вид флекс-контейнера (см. flexbox); display: inline-flex — вид строчного флекс-контейнера (см. flexbox).",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ЭКРАН"
+    ]
   },
   "ЭКРАН": {
     "english": [
@@ -656,7 +718,9 @@
     ],
     "meaning": "напр. экран смартфона, разрешение экрана.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ВИД"
+    ]
   },
   "ДИВАТОЗ": {
     "english": [
@@ -672,7 +736,9 @@
     ],
     "meaning": "",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ДОМ"
+    ]
   },
   "ДОМ": {
     "english": [
@@ -680,7 +746,9 @@
     ],
     "meaning": "см. ОБЪЕКТНАЯ МОДЕЛЬ ДОКУМЕНТА.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ОБЪЕКТНАЯ МОДЕЛЬ ДОКУМЕНТА"
+    ]
   },
   "ДОКТАЙП": {
     "english": [
@@ -704,7 +772,9 @@
     ],
     "meaning": "описывает изменение скорости анимации с помощью ключевых слов или кривых Безье, напр. transition easing is linear — плавность перехода линейная.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ФУНКЦИЯ ПЛАВНОСТИ"
+    ]
   },
   "ФУНКЦИЯ ПЛАВНОСТИ": {
     "english": [
@@ -712,7 +782,9 @@
     ],
     "meaning": "см. ПЛАВНОСТЬ.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ПЛАВНОСТЬ"
+    ]
   },
   "РЕДАКТОРСКИЙ ЧЕРНОВИК": {
     "english": [
@@ -984,7 +1056,10 @@
     ],
     "meaning": "свойство блока, заставляющее последующие блоки обтекать его, напр. float layout — раскладка на плавающих блоках.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ОБТЕКАТЬ",
+      "ПРИЖИМАТЬ"
+    ]
   },
   "ОБТЕКАТЬ": {
     "english": [
@@ -992,7 +1067,10 @@
     ],
     "meaning": "следовать вплотную к плавающему блоку, напр. text is floating to the right — текст обтекает справа.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ПЛАВАЮЩИЙ",
+      "ПРИЖИМАТЬ"
+    ]
   },
   "ПРИЖИМАТЬ": {
     "english": [
@@ -1000,7 +1078,10 @@
     ],
     "meaning": "упираться вправо или влево, обычно из-за плавающих свойств, напр. float block to the left — прижмите блок влево.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ПЛАВАЮЩИЙ",
+      "ОБТЕКАТЬ"
+    ]
   },
   "ШРИФТ": {
     "english": [
@@ -1032,7 +1113,9 @@
     ],
     "meaning": "",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "КЕГЛЬ"
+    ]
   },
   "КЕГЛЬ": {
     "english": [
@@ -1040,7 +1123,9 @@
     ],
     "meaning": "см. РАЗМЕР ШРИФТА.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "РАЗМЕР ШРИФТА"
+    ]
   },
   "СЕМЕЙСТВО ШРИФТА": {
     "english": [
@@ -1048,7 +1133,9 @@
     ],
     "meaning": "",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ГАРНИТУРА"
+    ]
   },
   "ГАРНИТУРА": {
     "english": [
@@ -1056,7 +1143,9 @@
     ],
     "meaning": "см. СЕМЕЙСТВО ШРИФТА.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "СЕМЕЙСТВО ШРИФТА"
+    ]
   },
   "ПОДВАЛ": {
     "english": [
@@ -1080,7 +1169,9 @@
     ],
     "meaning": "напр. element with overflow establishes the new BFC — элемент с oveflow создает новый БКФ.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "БКФ"
+    ]
   },
   "БКФ": {
     "english": [
@@ -1088,7 +1179,9 @@
     ],
     "meaning": "см. БЛОЧНЫЙ КОНТЕКСТ ФОРМАТИРОВАНИЯ.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "БЛОЧНЫЙ КОНТЕКСТ ФОРМАТИРОВАНИЯ"
+    ]
   },
   "КОНТЕКСТ ФОРМАТИРОВАНИЯ ГРИДОВ": {
     "english": [
@@ -1192,7 +1285,9 @@
     ],
     "meaning": "способ упорядочить расположение элементов в дизайне с помощью вертикального или горизонтального ритма, напр. module grid — модульная сетка.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ГРИД"
+    ]
   },
   "ГРИД": {
     "english": [
@@ -1200,7 +1295,9 @@
     ],
     "meaning": "двумерная сетка из рядов и колонок в грид-раскладке.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "СЕТКА"
+    ]
   },
   "ГРИД-РАСКЛАДКА": {
     "english": [
@@ -1304,7 +1401,9 @@
     ],
     "meaning": "напр. Firefox has implemented support of everything — Файрфокс внедрил поддержку всего.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "РЕАЛИЗОВЫВАТЬ"
+    ]
   },
   "РЕАЛИЗОВЫВАТЬ": {
     "english": [
@@ -1312,7 +1411,9 @@
     ],
     "meaning": "см. ВНЕДРЯТЬ.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ВНЕДРЯТЬ"
+    ]
   },
   "СТРОЧНЫЙ": {
     "english": [
@@ -1320,7 +1421,9 @@
     ],
     "meaning": "имеющий строчные свойства.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ВСТРОЕННЫЙ"
+    ]
   },
   "СТРОЧНЫЙ БЛОК": {
     "english": [
@@ -1352,7 +1455,9 @@
     ],
     "meaning": "находящийся внутри строки кода.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "СТРОЧНЫЙ"
+    ]
   },
   "ВСТРОЕННЫЕ СТИЛИ": {
     "english": [
@@ -1472,7 +1577,9 @@
     ],
     "meaning": "общее расстояние между буквами в тексте, отличается от кернинга.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ТРЕКИНГ"
+    ]
   },
   "ТРЕКИНГ": {
     "english": [
@@ -1480,7 +1587,9 @@
     ],
     "meaning": "см. МЕЖБУКВЕННОЕ РАССТОЯНИЕ.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "МЕЖБУКВЕННОЕ РАССТОЯНИЕ"
+    ]
   },
   "БИБЛИОТЕКА": {
     "english": [
@@ -1504,7 +1613,9 @@
     ],
     "meaning": "расстояние между базовыми линиями текста.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ИНТЕРЛИНЬЯЖ"
+    ]
   },
   "ИНТЕРЛИНЬЯЖ": {
     "english": [
@@ -1512,7 +1623,9 @@
     ],
     "meaning": "см. ВЫСОТА СТРОКИ.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ВЫСОТА СТРОКИ"
+    ]
   },
   "СПИСОК": {
     "english": [
@@ -1640,7 +1753,10 @@
     ],
     "meaning": "блокирующий интерфейс для выполнения какого-либо действия, напр. modal dialog — модальный диалог.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "МОДАЛЬНОЕ ОКНО",
+      "ДИАЛОГ"
+    ]
   },
   "МОДАЛЬНОЕ ОКНО": {
     "english": [
@@ -1648,7 +1764,10 @@
     ],
     "meaning": "элемент интерфейса, см. МОДАЛЬНЫЙ.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "МОДАЛЬНЫЙ",
+      "ДИАЛОГ"
+    ]
   },
   "ДИАЛОГ": {
     "english": [
@@ -1656,7 +1775,10 @@
     ],
     "meaning": "см. МОДАЛЬНОЕ ОКНО.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "МОДАЛЬНЫЙ",
+      "МОДАЛЬНОЕ ОКНО"
+    ]
   },
   "МНОЖЕСТВЕННЫЙ": {
     "english": [
@@ -1672,7 +1794,9 @@
     ],
     "meaning": "механизм из CSS, позволяющий выстроить текст в несколько колонок, напр. multiple columns support in IE — поддержка мультиколонок в IE. Предпочтительнее, чем громоздкие «множественные колонки».",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "МНОГОКОЛОНОЧНЫЙ"
+    ]
   },
   "МНОГОКОЛОНОЧНЫЙ": {
     "english": [
@@ -1680,7 +1804,9 @@
     ],
     "meaning": "состоящий из нескольких колонок, напр. multiple columns layout — многоколоночная раскладка.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "МУЛЬТИКОЛОНКИ"
+    ]
   },
   "ВЛОЖЕННЫЙ": {
     "english": [
@@ -1704,7 +1830,9 @@
     ],
     "meaning": "",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ЧИСЛОВОЙ ТИП"
+    ]
   },
   "ЧИСЛОВОЙ ТИП": {
     "english": [
@@ -1712,7 +1840,9 @@
     ],
     "meaning": "",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ЧИСЛО"
+    ]
   },
   "НЕПРОЗРАЧНОСТЬ": {
     "english": [
@@ -1760,7 +1890,9 @@
     ],
     "meaning": "обычно список ссылок с номерами страниц, на которые разбит документ.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "РАЗДЕЛЕНИЕ НА СТРАНИЦЫ"
+    ]
   },
   "РАЗДЕЛЕНИЕ НА СТРАНИЦЫ": {
     "english": [
@@ -1768,7 +1900,9 @@
     ],
     "meaning": "разделение документа на отдельные страницы для удобства чтения, загрузки или других целей.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ПОСТРАНИЧНАЯ НАВИГАЦИЯ"
+    ]
   },
   "ПАТТЕРН": {
     "english": [
@@ -1792,7 +1926,9 @@
     ],
     "meaning": "",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ПРОЦЕНТЫ"
+    ]
   },
   "ПРОЦЕНТЫ": {
     "english": [
@@ -1800,7 +1936,9 @@
     ],
     "meaning": "",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ПРОЦЕНТНОЕ ЗНАЧЕНИЕ"
+    ]
   },
   "БЫСТРОДЕЙСТВИЕ": {
     "english": [
@@ -1888,7 +2026,9 @@
     ],
     "meaning": "временный заменитель картинки, текста и т.п. Напр.: Вместо портрета президента вставь пока заглушку с котиками. (stub object)",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ПОДСКАЗКА ПОЛЯ"
+    ]
   },
   "ПОДСКАЗКА ПОЛЯ": {
     "english": [
@@ -1896,7 +2036,9 @@
     ],
     "meaning": "атрибут текстового поля, предназначен для подсказки о том, как это поле заполнять. Чаще всего представляет собой пример заполнения. Напр.: placeholder=\"+7 (999) 123-12-13\".",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ЗАГЛУШКА"
+    ]
   },
   "ПИКСЕЛЕЙ НА ДЮЙМ": {
     "english": [
@@ -2040,7 +2182,9 @@
     ],
     "meaning": "отдельное окно или элемент интерфейса, появляющийся поверх текущего, напр. annoying popup — назойливый попап.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ПОПАП"
+    ]
   },
   "ПОПАП": {
     "english": [
@@ -2048,7 +2192,9 @@
     ],
     "meaning": "см. ВСПЛЫВАЮЩЕЕ ОКНО.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ВСПЛЫВАЮЩЕЕ ОКНО"
+    ]
   },
   "ПОЗИЦИОНИРОВАНИЕ": {
     "english": [
@@ -2248,7 +2394,10 @@
     ],
     "meaning": "синтаксис в JavaScript, позволяющий представить неименованные параметры функции в виде массива.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ОСТАВШИЕСЯ ПАРАМЕТРЫ",
+      "РЕСТ-ПАРАМЕТРЫ"
+    ]
   },
   "ОСТАВШИЕСЯ ПАРАМЕТРЫ": {
     "english": [
@@ -2256,7 +2405,10 @@
     ],
     "meaning": "см. ОСТАТОЧНЫЕ ПАРАМЕТРЫ.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ОСТАТОЧНЫЕ ПАРАМЕТРЫ",
+      "РЕСТ-ПАРАМЕТРЫ"
+    ]
   },
   "РЕСТ-ПАРАМЕТРЫ": {
     "english": [
@@ -2264,7 +2416,10 @@
     ],
     "meaning": "см. ОСТАТОЧНЫЕ ПАРАМЕТРЫ.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ОСТАТОЧНЫЕ ПАРАМЕТРЫ",
+      "ОСТАВШИЕСЯ ПАРАМЕТРЫ"
+    ]
   },
   "КОРЕНЬ": {
     "english": [
@@ -2328,7 +2483,9 @@
     ],
     "meaning": "",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "МАСШТАБИРОВАТЬ"
+    ]
   },
   "МАСШТАБИРОВАТЬ": {
     "english": [
@@ -2336,7 +2493,9 @@
     ],
     "meaning": "",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "МАСШТАБ"
+    ]
   },
   "ОБЛАСТЬ ВИДИМОСТИ": {
     "english": [
@@ -2368,7 +2527,9 @@
     ],
     "meaning": "элемент интерфейса для перемещения скрытой части страницы или блока, является признаком того, что вложенный элемент больше родительского, напр. horizontal scroll is disabled — горизонтальная прокрутка запрещена.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ПРОКРУЧИВАТЬ"
+    ]
   },
   "ПРОКРУЧИВАТЬ": {
     "english": [
@@ -2376,7 +2537,9 @@
     ],
     "meaning": "перемещать скрытую часть страницы или блока.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ПРОКРУТКА"
+    ]
   },
   "ПОЛОСА ПРОКРУТКИ": {
     "english": [
@@ -2424,7 +2587,9 @@
     ],
     "meaning": "",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ТЕНЕВАЯ МОДЕЛЬ ДОКУМЕНТА"
+    ]
   },
   "ТЕНЕВАЯ МОДЕЛЬ ДОКУМЕНТА": {
     "english": [
@@ -2432,7 +2597,9 @@
     ],
     "meaning": "",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ТЕНЕВОЙ DOM"
+    ]
   },
   "ФИГУРЫ": {
     "english": [
@@ -2440,7 +2607,9 @@
     ],
     "meaning": "",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "CSS-ФИГУРЫ"
+    ]
   },
   "CSS-ФИГУРЫ": {
     "english": [
@@ -2448,7 +2617,9 @@
     ],
     "meaning": "",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ФИГУРЫ"
+    ]
   },
   "РАЗДЕЛЯЕМЫЙ": {
     "english": [
@@ -2456,7 +2627,9 @@
     ],
     "meaning": "напр. shared memory — разделяемая память.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ОБЩИЙ"
+    ]
   },
   "ОБЩИЙ": {
     "english": [
@@ -2464,7 +2637,9 @@
     ],
     "meaning": "напр. shared folder — общая папка, shared access — общий доступ.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "РАЗДЕЛЯЕМЫЙ"
+    ]
   },
   "ШИМ": {
     "english": [
@@ -2496,7 +2671,9 @@
     ],
     "meaning": "",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "НАКЛОНЯТЬ"
+    ]
   },
   "НАКЛОНЯТЬ": {
     "english": [
@@ -2504,7 +2681,9 @@
     ],
     "meaning": "",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "НАКЛОН"
+    ]
   },
   "КАРТЫ КОДА": {
     "english": [
@@ -2578,7 +2757,9 @@
     ],
     "meaning": "в программировании — тип данных, значениями которого является произвольная последовательность (строка) символов алфавита.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "СТРОКА"
+    ]
   },
   "СТРОКА": {
     "english": [
@@ -2586,7 +2767,9 @@
     ],
     "meaning": "в CSS — строковое значение директивы или свойства. Напр., в content: \"\\201d\" строкой является \"\\201d\". 2. (row) горизонтальная область в таблице или раскладке; элемент таблицы <tr>.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "СТРОКОВЫЙ ТИП"
+    ]
   },
   "СТИЛИ": {
     "english": [
@@ -2594,7 +2777,9 @@
     ],
     "meaning": "напр. apply styles to an element — применить стили к элементу, мн.ч. предпочтительнее: стили элемента, а не стиль элемента (неправильно).",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ОФОРМЛЯТЬ"
+    ]
   },
   "ОФОРМЛЯТЬ": {
     "english": [
@@ -2602,7 +2787,9 @@
     ],
     "meaning": "напр. how to style selects — как оформить селекты, предпочтительнее, чем двусмысленное «стилизовать».",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "СТИЛИ"
+    ]
   },
   "РУКОВОДСТВО ПО СТИЛЮ": {
     "english": [
@@ -2642,7 +2829,9 @@
     ],
     "meaning": "один из слоёв интерфейса сайта или программы, который активируется выбором его заголовка, напр. open in new tab — открыть в новой вкладке.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ТАБ"
+    ]
   },
   "ТАБ": {
     "english": [
@@ -2650,7 +2839,9 @@
     ],
     "meaning": "1. клавиша табуляции, вставляет символ табуляции, переключает фокус на следующий элемент интерфейса, либо дополняет частично набранное слово, напр. press Ctrl Tab — нажмите контрол-таб. 2. символ табуляции, имеет настраиваемую ширину и используется для отступов в коде, напр. tabs are better than spaces — табы лучше пробелов.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ВКЛАДКА"
+    ]
   },
   "ТЕГ": {
     "english": [
@@ -2690,7 +2881,9 @@
     ],
     "meaning": "ориентация строк текста в определённом направлении, либо равномерно по ширине блока.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ВЫКЛЮЧКА"
+    ]
   },
   "ВЫКЛЮЧКА": {
     "english": [
@@ -2698,7 +2891,9 @@
     ],
     "meaning": "см. ВЫРАВНИВАНИЕ.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ВЫРАВНИВАНИЕ"
+    ]
   },
   "ТЕНЬ ТЕКСТА": {
     "english": [
@@ -2730,7 +2925,9 @@
     ],
     "meaning": "если речь идёт об элементе <title>, либо о заглавии элемента.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ПОДСКАЗКА"
+    ]
   },
   "ПОДСКАЗКА": {
     "english": [
@@ -2738,7 +2935,9 @@
     ],
     "meaning": "если речь идёт об атрибуте title=\"\".",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "ЗАГОЛОВОК"
+    ]
   },
   "ПЕРЕКЛЮЧАТЬ": {
     "english": [
@@ -2834,7 +3033,9 @@
     ],
     "meaning": "см. УНИФИЦИРОВАННЫЙ УКАЗАТЕЛЬ РЕСУРСА. Значение рекомендовано к использованию при переводах статей.",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "УНИФИЦИРОВАННЫЙ УКАЗАТЕЛЬ РЕСУРСА"
+    ]
   },
   "УНИФИЦИРОВАННЫЙ УКАЗАТЕЛЬ РЕСУРСА": {
     "english": [
@@ -2842,7 +3043,9 @@
     ],
     "meaning": "URI, который предоставляет ещё и информацию о местонахождении этого ресурса, напр. background: url(\"http://www.example.com/picture.png\").",
     "resource": "github.com/web-standards-ru/dictionary",
-    "related": []
+    "related": [
+      "АДРЕС"
+    ]
   },
   "ПОЛЬЗОВАТЕЛЬСКИЙ ОПЫТ": {
     "english": [

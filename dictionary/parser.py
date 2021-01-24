@@ -26,7 +26,7 @@ for item in data_formated:
             for word2 in data_formated[item2]["english"]:
                 if word == word2 and item != item2:
                     related.append(item2)
-    print(item, related)
+    data_formated[item]["related"] = related
 
 with open('parser_output.json', 'w', encoding='utf8') as outfile:
     json.dump(data_formated, outfile, ensure_ascii=False)
