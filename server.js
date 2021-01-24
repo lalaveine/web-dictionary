@@ -1,14 +1,14 @@
 var fs = require("fs");
 var http = require("http");
 var https = require("https");
-var url = require("url");
+var querystring = require("querystring");
 
 var dictionary = null;
 
 var dictionaryHandler = (request, response) => {
-  var u = url.parse(decodeURI(request.url));
+  var query = querystring.unescape(request.url);
 
-  if (u.pathname == "/readyz") {
+  if (query == "/readyz") {
     if (dictionary) {
       response.writeHead(200);
       response.end("OK");
@@ -20,8 +20,8 @@ var dictionaryHandler = (request, response) => {
   }
 
   var key = "";
-  if (u.pathname.length > 0) {
-    key = u.pathname.substr(1).toUpperCase();
+  if (query.length > 0) {
+    key = query.substr(1).toUpperCase();
   }
   console.log(key);
   var def = dictionary[key];
